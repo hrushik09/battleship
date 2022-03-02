@@ -20,4 +20,4 @@ First, player 1 will place all the ships by giving inputs such as `F3 F7` or `J1
 Once all ships are placed, both players will take turns and specify a position on opponent's field to hit. If all the places occupied by a ship are hit, then that ship is considered to be sunk. To win, sink all ships of opponent.
 
 #
-This program is based on the Battleship project on [Jet Brains Academy](https://hyperskill.org).
+This program is based on the Battleship project on [JetBrains Academy](https://hyperskill.org).
